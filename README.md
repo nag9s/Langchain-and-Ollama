@@ -7,8 +7,8 @@ Ref https://ollama.com/library
 ollama pull llama3.2:1b
 
 for sheldon model  Ref Video 3 . 12
-        ollama create sheldon -f ./sheldonModelfile.txt
-            To verify ollama run sheldon 
+        ollama create scientist -f ./scientist.txt
+            To verify ollama run scientist 
         ollama create sherlock -f ./sherlockHlomesModelfile.txt 
 
 
