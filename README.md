@@ -13,10 +13,12 @@ for sheldon model  Ref Video 3 . 12
 
 
 
-02 Done    Video 04
-03 Done    Video 05
-04 Done    Video 06
-05 Done    Video 07
+02 Done    Video 04 Works , need to see once
+03 Done    Video 05 Works , need to see once
+04 Done    Video 06 Works , need to see once
+05 Done    Video 07 Works , need to see once
+06 Done    Video 08 Works , need to see once
+07 Failing    Video 09 Resume from here   ModuleNotFoundError: No module named 'streamlit'
 
 
 

@@ -11,3 +11,6 @@ to activate ml by default
 # activate ml environment
 conda activate ml
 pip install -r requirements.txt 
+
+# misc
+pip cache purge
