@@ -18,7 +18,9 @@ for sheldon model  Ref Video 3 . 12
 04 Done    Video 06 Works , need to see once
 05 Done    Video 07 Works , need to see once
 06 Done    Video 08 Works , need to see once
-07 Failing    Video 09 Resume from here   ModuleNotFoundError: No module named 'streamlit'
+07 Ignore ( Own Chatbot application )    Video 09 Resume from here   ModuleNotFoundError: No module named 'streamlit'  
+08 Ignore ( Loaders )    Video 10 , 11, 12, 13
+09             Video 14
 
 
 
