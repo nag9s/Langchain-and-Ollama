@@ -20,14 +20,15 @@ for sheldon model  Ref Video 3 . 12
 06 Done    Video 08 Works , need to see once
 07 Ignore ( Own Chatbot application )    Video 09 Resume from here   ModuleNotFoundError: No module named 'streamlit'  
 08 Ignore ( Loaders )    Video 10 , 11, 12, 13
-09             Video 14
+09    Done         Video 14 Works
+10    Done  Video 15 works
 
 
 
 
 # Errors
 05 Output Parsing
-Getting the erorr with model llama3.2:1b
+Getting the erorr with model llama3.2:1b - this is fixed by keeping different model
 OutputParserException: Failed to parse Joke from completion [{"$schema": "https://json-schema.org/draft-07/schema#", "description": "Joke to tell user", "properties": {"setup": {"description": "The setup of the joke", "title": "Setup", "type": "string"}, "punchline": {"description": "The punchline of the joke", "title": "Punchline", "type": "string"}}, "required": ["setup", "punchline"], "title": "Dogs Joke"}]. Got: 1 validation error for Joke
   Input should be a valid dictionary or instance of Joke [type=model_type, input_value=[{'$schema': 'https://jso..., 'title': 'Dogs Joke'}], input_type=list]
     For further information visit https://errors.pydantic.dev/2.10/v/model_type
